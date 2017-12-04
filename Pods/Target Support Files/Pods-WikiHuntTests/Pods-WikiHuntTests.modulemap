@@ -1,0 +1,6 @@
+framework module Pods_WikiHuntTests {
+  umbrella header "Pods-WikiHuntTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
